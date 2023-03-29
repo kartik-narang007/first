@@ -1,0 +1,10 @@
+Hello this is the list of recipes included in tutorials.
+
+pizza
+pasta
+parantha
+
+
+Thanks & Regards.
+Kartik Narang.
+Rajasthan.
